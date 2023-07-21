@@ -1,0 +1,3 @@
+#!/bin/bash
+nasm -g -f elf32 -F dwarf -o functions.o functions.asm
+

@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -g -Wall -static -m32 -o backandforth backandforth.c functions.o
